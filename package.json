@@ -1,14 +1,15 @@
 {
-  "name": "jestexzam",
+  "name": "unit",
   "version": "1.0.0",
-  "description": "",
   "main": "1.js",
   "scripts": {
     "test": "jest"
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
+  "dependencies": {
+    "jest": "^29.7.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "description": ""
 }
